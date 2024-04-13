@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orifki&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orifki&layout=compact)
 
 <!--
 **orifki/orifki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
